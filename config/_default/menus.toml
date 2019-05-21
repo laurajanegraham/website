@@ -33,6 +33,11 @@
   name = "grainchanger"
   parent = "software"
   url = "/grainchanger"
+  
+[[main]]
+  name = "photosearcher"
+  parent = "software"
+  url = "https://nfox29.github.io/photosearcher/"
 
 [[main]]
   name = "Contact"
