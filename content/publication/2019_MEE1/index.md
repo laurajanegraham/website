@@ -3,8 +3,8 @@ title = "Spatial models of carbon, nitrogen and sulphur stable isotope distribut
 date = "2019-01-15"
 authors = ["Katie St John Glew", "Laura J. Graham", "Rona A.R. McGill", "Clive N. Trueman"]
 publication_types = ["2"]
-publication = "Methods in Ecology and Evolution, _pp. 1--14_, https://doi.org/10.1111/2041-210X.13138"
-publication_short = "Methods in Ecology and Evolution, _pp. 1--14_, https://doi.org/10.1111/2041-210X.13138"
+publication = "Methods in Ecology and Evolution, (10) _pp. 518--531_, https://doi.org/10.1111/2041-210X.13138"
+publication_short = "Methods in Ecology and Evolution, (10) _pp. 518--531_, https://doi.org/10.1111/2041-210X.13138"
 abstract = """
 1. Spatial models of variation in the isotopic composition of structural nutrients across habitats (isoscapes) offer information on physical, biogeochemical and anthropogenic processes occurring across space, and provide a tool for retrospective assignment of animals or animal products to their foraging area or geographic origin. The isotopic differences among reference samples used to construct isoscapes may vary spatially and according to non‐spatial terms (e.g. sampling date, or among individual or species effects). Partitioning variance between spatially dependent and spatially independent terms is a critical but overlooked aspect of isoscape creation with important consequences for the design of studies collecting reference data for isoscape creation and the accuracy and precision of isoscape models. 
 

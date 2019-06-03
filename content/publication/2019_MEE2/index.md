@@ -3,8 +3,8 @@ title = "Incorporating fine‐scale environmental heterogeneity into broad‐ext
 date = "2019-04-08"
 authors = ["Laura J. Graham", "Rebecca Spake", "Simon Gillings", "Kevin Watts", "Felix Eigenbrod"]
 publication_types = ["2"]
-publication = "Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.13177"
-publication_short = "Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.13177"
+publication = "Methods in Ecology and Evolution, (10) _pp. 767--778_, https://doi.org/10.1111/2041-210X.13177"
+publication_short = "Methods in Ecology and Evolution, (10) _pp. 767--778_, https://doi.org/10.1111/2041-210X.13177"
 abstract = """
 1. A key aim of ecology is to understand the drivers of ecological patterns, so that we can accurately predict the effects of global environmental change. However, in many cases, predictors are measured at a finer resolution than the ecological response. We therefore require data aggregation methods that avoid loss of information on fine‐grain heterogeneity.
 
