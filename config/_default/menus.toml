@@ -32,7 +32,7 @@
 [[main]]
   name = "grainchanger"
   parent = "software"
-  url = "/grainchanger"
+  url = "https://ropensci.github.io/grainchanger"
   
 [[main]]
   name = "photosearcher"
