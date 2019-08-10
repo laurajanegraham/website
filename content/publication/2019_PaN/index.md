@@ -17,7 +17,7 @@ authors = ["Laura J. Graham", "Felix Eigenbrod"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "People & Nature (in press)"
+publication = "People & Nature"
 
 # Abstract.
 abstract = """
@@ -33,10 +33,10 @@ abstract = """
 """
 
 # Summary. An optional shortened abstract.
-summary = "This is a short abstract"
+summary = "Why do we want to visit places for outdoor recreation and how can we measure this?"
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1002/pan3.10042"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -62,14 +62,14 @@ projects = ["scalefores"]
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1002/pan3.10042"
 url_preprint = ""
 url_code = "https://doi.org/10.5281/zenodo.3257596"
 url_dataset = "https://doi.org/10.5281/zenodo.3257596"
 url_project = "https://www.southampton.ac.uk/geography/research/projects/scalefores.page"
-url_slides = ""
+url_slides = "https://doi.org/10.6084/m9.figshare.8343128.v1"
 url_video = ""
-url_poster = "https://doi.org/10.6084/m9.figshare.8343005.v1"
+url_poster = "https://doi.org/10.6084/m9.figshare.8343005.v2"
 url_source = ""
 
 # Custom links (optional).
